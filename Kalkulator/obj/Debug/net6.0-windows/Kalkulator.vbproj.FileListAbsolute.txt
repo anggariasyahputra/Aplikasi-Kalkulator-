@@ -1,0 +1,17 @@
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.vbproj.AssemblyReference.cache
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.Form1.resources
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.vbproj.GenerateResource.cache
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.AssemblyInfo.vb
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.vbproj.CoreCompileInputs.cache
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.exe
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.deps.json
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.runtimeconfig.json
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.dll
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.pdb
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.dll
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\refint\Kalkulator.dll
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.pdb
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.genruntimeconfig.cache
+C:\Users\T460\Documents\Semester 2\Pemrograman Visual\Kalkulator\Kalkulator\obj\Debug\net6.0-windows\ref\Kalkulator.dll
